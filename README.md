@@ -9,10 +9,3 @@ Projeto desenvolvido para praticar conceitos básicos de Node.js e JavaScript.
 - Foi criado um exemplo de função.
 - Foi utilizado o `console.log()` para mostrar os resultados no terminal.
 
-## Como executar
-
-1. Abrir o terminal na pasta do projeto.
-2. Executar o comando:
-
-```bash
-node src/index.js
